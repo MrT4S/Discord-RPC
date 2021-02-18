@@ -1,0 +1,14 @@
+{
+  "name": "buttons",
+  "version": "1.0.0",
+  "description": "A script that allows you to add buttons to your rich presence.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "identitythief/lavish",
+  "license": "ISC",
+  "dependencies": {
+    "discord-rpc": "^3.1.4"
+  }
+}
