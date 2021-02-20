@@ -31,4 +31,4 @@
 <img src="https://media.discordapp.net/attachments/714580433249240061/812024538035519508/unknown.png?width=704&height=312" alt="config-example" style="border-radius: 75%;">
 
 ## ALSO
-- I didn't code this. here is the [source](https://github.com/wiz-zed/richpresence-buttons)
+- This isn't mine. here is the [source](https://github.com/wiz-zed/richpresence-buttons)
