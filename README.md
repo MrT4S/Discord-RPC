@@ -6,8 +6,7 @@
 - If you do not already have one, create one, and put its id in config.json > line 2 replacing "ID-HERE" with your id between "".
 - In your application, go to Rich Presence > Art Assets and upload your desired photo.
 - Whatever you name that picture, you must insert that in config,json > line 3 replacing "NAME-OF-LARGE-IMAGE" with the name between "".
-- Put any text in configjson > line 4 which will show once you click on the image. `Example:` 
-<img src="https://media.discordapp.net/attachments/714580433249240061/812036219273871420/unknown.png?width=86&height=119" alt="Example" style="border-radius: 75%;">
+- Put any text in configjson > line 4 which will show once you click on the image.
 - Put any text for details that'll display next to the large image in config.json > line 5.
 - The last 4 lines is very explanatory. Simply name your button names and the url accordingly!
 - You must have a game running on your discord app for the rpc status to connect! 
