@@ -1,10 +1,10 @@
 {
-    "clientid": "ID-HERE",
-    "largeimage": "NAME-OF-LARGE-IMAGE",
-    "largetext": "TEXT-OVER-THE-IMAGE",
-    "details": "SIMPLE-DETAILS",
-    "button1": "BUTTON-1-NAME",
-    "url1": "URL-REDIRECTS-ON-BUTTON-1",
-    "button2": "BUTTON-2-NAME",
-    "url2": "URL-REDIRECTS-ON-BUTTON-2"
+    "clientid": "839848888462737448",
+    "largeimage": "join_sora",
+    "largetext": "dm me to join sora™",
+    "details": "https://discord.gg/fQW53nd9",
+    "button1": "discord server",
+    "url1": "https://discord.gg/fQW53nd9",
+    "button2": "check this",
+    "url2": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO"
 }
